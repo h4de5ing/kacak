@@ -1,3 +1,5 @@
+自动化渗透测试工具 – Heybe
+Kacak，发现Windows中的域并自动接管。
 KACAK
 =====
 
